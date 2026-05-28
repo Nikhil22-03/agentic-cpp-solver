@@ -1,9 +1,9 @@
 # 🚀 Agentic C++ Code Sandbox
 
-![UI Demo][demo-img] [![Python 3.10+][python-shield]][python-url]
-[![LangGraph][langgraph-shield]][langgraph-url]
-[![Streamlit][streamlit-shield]][streamlit-url]
-[![Docker][docker-shield]][docker-url]
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agents-orange)](https://python.langchain.com/docs/langgraph)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/Docker-Sandbox-2496ED)](https://www.docker.com/)
 
 An autonomous, multi-agent LLM pipeline that writes, containerizes, and tests C++ algorithmic solutions in a secure, ephemeral Docker environment.
 
